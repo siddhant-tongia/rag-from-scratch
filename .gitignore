@@ -1,9 +1,5 @@
 .env
-rag_from_scratch_1_to_4.ipynb
-rag_from_scratch_5_to_9.ipynb
-rag_from_scratch_10_and_11.ipynb
-rag_from_scratch_12_to_14.ipynb
-rag_from_scratch_15_to_18.ipynb
 diagram.png
 .venv/
 .vscode/
+rag_retrieval_and_generation.ipynb
