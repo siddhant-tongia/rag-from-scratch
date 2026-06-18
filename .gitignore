@@ -3,3 +3,4 @@ diagram.png
 .venv/
 .vscode/
 rag_retrieval_and_generation.ipynb
+summary.md
